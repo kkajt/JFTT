@@ -6,7 +6,7 @@
 
 ## O projekcie
 Kompilator prostego języka impreatywnego do kodu maszyny rejestrowej z użyciem BISON-a i FLEX-a wykonany na potrzeby kursu.
-Polecenie znajduje się w pliku <i>zadanie.pdf</i>.
+Polecenie znajduje się w pliku [a relative link](zadanie.pdf).
 
 ## Technologia
 Wykorzystano następujące technologie:
